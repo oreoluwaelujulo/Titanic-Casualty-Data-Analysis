@@ -13,6 +13,7 @@ Females: 577(233/40% survived)
 
 Males: 314(109/34.7% survived)
 
+## INSIGHTS
 
 There are a couple of metrics to focus on when trying to understand the factors that contributed to the survival or death rate of passengers on the Titanic ship. 
 
