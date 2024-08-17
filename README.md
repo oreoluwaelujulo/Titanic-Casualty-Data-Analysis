@@ -4,9 +4,13 @@ Data Analysis into the survival of Titanic ship wreck victims.
 
 # Important Figures: 
 Total number of Passangers: 891
+
 Total death: 549(61.62% of total)
+
 Total Survival: 342(38.38% of total)
+
 Females: 577(233/40% survived)
+
 Males: 314(109/34.7% survived)
 
 
