@@ -1,8 +1,8 @@
 # Titanic-Casualty-Data-Analysis
 Data Analysis into the survival of Titanic ship wreck victims.
-# EXCEL PROJECT REPORT ON TITANIC SHIP WRECK
+## EXCEL PROJECT REPORT ON TITANIC SHIP WRECK
 
-# Important Figures: 
+## Important Figures: 
 Total number of Passangers: 891
 
 Total death: 549(61.62% of total)
